@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.c29f7c1b.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.0d9b3df3.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.0d9b3df3.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.cba0cf72.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.cba0cf72.js.map",
+    "static/js/2.21aca893.chunk.js": "/portfolio-react/static/js/2.21aca893.chunk.js",
+    "static/js/2.21aca893.chunk.js.map": "/portfolio-react/static/js/2.21aca893.chunk.js.map",
+    "static/js/3.7fe29d3d.chunk.js": "/portfolio-react/static/js/3.7fe29d3d.chunk.js",
+    "static/js/3.7fe29d3d.chunk.js.map": "/portfolio-react/static/js/3.7fe29d3d.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "static/css/main.c29f7c1b.chunk.css.map": "/portfolio-react/static/css/main.c29f7c1b.chunk.css.map",
+    "static/js/2.21aca893.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.21aca893.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/portfolio-react/static/media/1.ca3a7668.png",
+    "static/media/2.png": "/portfolio-react/static/media/2.311c7749.png",
+    "static/media/3.png": "/portfolio-react/static/media/3.dd58b6d6.png",
+    "static/media/4.png": "/portfolio-react/static/media/4.1191256e.png",
+    "static/media/5.png": "/portfolio-react/static/media/5.365d6e45.png",
+    "static/media/6.png": "/portfolio-react/static/media/6.ac5564bf.png",
+    "static/media/agile.png": "/portfolio-react/static/media/agile.b3c32aef.png",
+    "static/media/api.png": "/portfolio-react/static/media/api.eb5418c0.png",
+    "static/media/creative.png": "/portfolio-react/static/media/creative.71df2cbc.png",
+    "static/media/git.png": "/portfolio-react/static/media/git.7546cf0c.png",
+    "static/media/mongodb.png": "/portfolio-react/static/media/mongodb.6dc71ba0.png",
+    "static/media/mysql.png": "/portfolio-react/static/media/mysql.28931c9b.png",
+    "static/media/nodejs.png": "/portfolio-react/static/media/nodejs.07d152a8.png",
+    "static/media/perce-rock.e98712b0.jpg": "/portfolio-react/static/media/perce-rock.e98712b0.jpg",
+    "static/media/resume.14525041.docx": "/portfolio-react/static/media/resume.14525041.docx",
+    "static/media/smart.png": "/portfolio-react/static/media/smart.b528ad10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cba0cf72.js",
+    "static/js/2.21aca893.chunk.js",
+    "static/css/main.c29f7c1b.chunk.css",
+    "static/js/main.0d9b3df3.chunk.js"
+  ]
+}
